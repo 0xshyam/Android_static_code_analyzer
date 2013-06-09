@@ -15,6 +15,6 @@ What this android static code analyzer do ?
   d. Sign the application
   e. Analyze the JAVA code for security issues.
 
-#Some part of the code is taken as an Idea from scriptdroid.bat
+Some part of the code is taken as an Idea from scriptdroid.bat
 
 Happy debugging 
